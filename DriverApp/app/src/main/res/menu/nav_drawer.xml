@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/orders"
+        android:icon="@drawable/ic_baseline_shopping_bag_24"
+        android:title="Orders"/>
+
+    <item android:id="@+id/notification"
+        android:icon="@drawable/ic_baseline_notifications_24"
+        android:title="Notification"/>
+
+    <item android:id="@+id/history"
+        android:icon="@drawable/ic_baseline_history_24"
+        android:title="History"/>
+
+    <item android:id="@+id/help"
+        android:icon="@drawable/ic_baseline_help_24"
+        android:title="Help &amp; Support"/>
+
+    <item
+         android:id="@+id/settings"
+        android:icon="@drawable/ic_baseline_settings_24"
+        android:title="Settings"/>
+
+    <item android:id="@+id/languages"
+        android:icon="@drawable/ic_baseline_g_translate_24"
+        android:title="Languages"/>
+
+    <item android:id="@+id/logout"
+        android:icon="@drawable/ic_baseline_login_24"
+        android:title="Log Out"/>
+
+
+
+</menu>
